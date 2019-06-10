@@ -1,1 +1,1 @@
-# haydb.github.io/index.html
+# haydb.github.io/indeks.html
